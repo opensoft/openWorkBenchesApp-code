@@ -1,5 +1,9 @@
 # openWorkBenchesApp-code
 
+The planned Flutter desktop and mobile application for organization sign-in, workstation setup, approvals, and installation status.
+
+This repository is an initial project scaffold. Application functionality will be implemented in the code leg.
+
 The **code leg** of the `openworkbenchesapp` project: the implementation and its
 tests. The requirements it implements live in
 [`opensoft/openWorkBenchesApp-spec`](https://github.com/opensoft/openWorkBenchesApp-spec).
@@ -25,3 +29,8 @@ navigation; authority travels in grants, and a project that keeps spec and
 code in one repository is reviewed identically.
 
 Topic: `xf-project-openworkbenchesapp`.
+
+
+## License
+
+Apache-2.0. Copyright 2026 OpenSoft. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
